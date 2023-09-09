@@ -7,6 +7,7 @@ public class Demo1 {
 		System.out.println("hello world");
 		System.out.println("Hello Prakash How r you");
 		System.out.println("hello my code has updated");
+		System.out.println("Developer updated code");
 	}
 
 }
